@@ -1,12 +1,12 @@
 # profile
 my personal website
 
-#skills
+# Skills
 `Java`
 `GWT`
 
-#Experience
+# Experience
 Total 7 years expereince
 
-#Portifolio
+# Portifolio
 badurubalaji.com
