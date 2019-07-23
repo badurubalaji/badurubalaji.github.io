@@ -3,6 +3,13 @@ body{
 	font-size:14px;
 	line-height:1.42857143;
 	color:#545454;
-	background-color:#fff
+	background: #E0EBE8;
 	}
+.brand-logo {
+color:#45b29a;
+}
+.material-icons-logo{
+	color:#45b29a;
+	icon:url("images/balaji.svg");
+}
 
