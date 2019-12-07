@@ -58,3 +58,19 @@ footer .footer-list a {
     color: #45b29a;
     font-size: 1.5em;
 }
+.balaji_baduru_header_content {
+    vertical-align: middle;
+    text-align: center;
+    padding:50px;
+}
+.bbaduru-header{
+    text-align: center;
+
+}
+.contact_image{
+    padding: 20px;
+    height: 20px;
+}
+.contact_me_anchor_tag {
+    color:black;
+}
